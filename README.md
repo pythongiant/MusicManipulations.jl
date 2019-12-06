@@ -1,5 +1,6 @@
 | **Documentation**   | **Travis**     |  **Citation**
 |:--------:|:--------:|:------:|
+chikka
 |[![](https://img.shields.io/badge/docs-online-blue.svg)](https://juliamusic.github.io/JuliaMusic_documentation.jl/latest/) | [![Build Status](https://travis-ci.org/JuliaMusic/MusicManipulations.jl.svg?branch=master)](https://travis-ci.org/JuliaMusic/MusicManipulations.jl) | [![status](http://joss.theoj.org/papers/e0cfc67982f857ed96d906ff2266aa15/status.svg)](http://joss.theoj.org/papers/e0cfc67982f857ed96d906ff2266aa15)
 // Testing
 * Manipulate music data (translate/transpose etc)
