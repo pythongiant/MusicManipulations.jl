@@ -1,0 +1,10 @@
+test:
+  - test/**
+Data_Handling:
+  - src/data_handling/**
+motifs:
+  - src/motifs/**
+modules:
+  - src/specific_modules/**
+repo:
+  - ./*
